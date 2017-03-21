@@ -1,0 +1,6 @@
+c:\users\afreixas\documents\visual studio 2015\Projects\POO\POO.TiposBasicos.ConsoleApp\bin\Debug\POO.TiposBasicos.ConsoleApp.exe.config
+c:\users\afreixas\documents\visual studio 2015\Projects\POO\POO.TiposBasicos.ConsoleApp\bin\Debug\POO.TiposBasicos.ConsoleApp.exe
+c:\users\afreixas\documents\visual studio 2015\Projects\POO\POO.TiposBasicos.ConsoleApp\bin\Debug\POO.TiposBasicos.ConsoleApp.pdb
+c:\users\afreixas\documents\visual studio 2015\Projects\POO\POO.TiposBasicos.ConsoleApp\obj\Debug\POO.TiposBasicos.ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\afreixas\documents\visual studio 2015\Projects\POO\POO.TiposBasicos.ConsoleApp\obj\Debug\POO.TiposBasicos.ConsoleApp.exe
+c:\users\afreixas\documents\visual studio 2015\Projects\POO\POO.TiposBasicos.ConsoleApp\obj\Debug\POO.TiposBasicos.ConsoleApp.pdb

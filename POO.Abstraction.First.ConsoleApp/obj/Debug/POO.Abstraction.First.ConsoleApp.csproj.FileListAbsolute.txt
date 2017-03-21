@@ -1,0 +1,5 @@
+C:\Users\afreixas\documents\visual studio 2015\Projects\POO\POO.Abstraction.First.ConsoleApp\bin\Debug\POO.Abstraction.First.ConsoleApp.exe.config
+C:\Users\afreixas\Documents\Visual Studio 2015\Projects\POO\POO.Abstraction.First.ConsoleApp\bin\Debug\POO.Abstraction.First.ConsoleApp.exe
+C:\Users\afreixas\Documents\Visual Studio 2015\Projects\POO\POO.Abstraction.First.ConsoleApp\bin\Debug\POO.Abstraction.First.ConsoleApp.pdb
+C:\Users\afreixas\Documents\Visual Studio 2015\Projects\POO\POO.Abstraction.First.ConsoleApp\obj\Debug\POO.Abstraction.First.ConsoleApp.exe
+C:\Users\afreixas\Documents\Visual Studio 2015\Projects\POO\POO.Abstraction.First.ConsoleApp\obj\Debug\POO.Abstraction.First.ConsoleApp.pdb

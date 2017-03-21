@@ -1,0 +1,6 @@
+C:\Users\afreixas\documents\visual studio 2015\Projects\POO\POO.Abstraction.Second.ConsoleApp\bin\Debug\POO.Abstraction.Second.ConsoleApp.exe.config
+C:\Users\afreixas\documents\visual studio 2015\Projects\POO\POO.Abstraction.Second.ConsoleApp\obj\Debug\POO.Abstraction.Second.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\afreixas\documents\visual studio 2015\Projects\POO\POO.Abstraction.Second.ConsoleApp\bin\Debug\POO.Abstraction.Second.ConsoleApp.exe
+C:\Users\afreixas\documents\visual studio 2015\Projects\POO\POO.Abstraction.Second.ConsoleApp\bin\Debug\POO.Abstraction.Second.ConsoleApp.pdb
+C:\Users\afreixas\documents\visual studio 2015\Projects\POO\POO.Abstraction.Second.ConsoleApp\obj\Debug\POO.Abstraction.Second.ConsoleApp.exe
+C:\Users\afreixas\documents\visual studio 2015\Projects\POO\POO.Abstraction.Second.ConsoleApp\obj\Debug\POO.Abstraction.Second.ConsoleApp.pdb

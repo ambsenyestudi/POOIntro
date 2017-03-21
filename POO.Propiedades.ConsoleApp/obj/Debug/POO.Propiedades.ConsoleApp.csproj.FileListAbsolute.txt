@@ -1,0 +1,6 @@
+C:\Users\afreixas\documents\visual studio 2015\Projects\POO\POO.Propiedades.ConsoleApp\bin\Debug\POO.Propiedades.ConsoleApp.exe.config
+C:\Users\afreixas\documents\visual studio 2015\Projects\POO\POO.Propiedades.ConsoleApp\bin\Debug\POO.Propiedades.ConsoleApp.exe
+C:\Users\afreixas\documents\visual studio 2015\Projects\POO\POO.Propiedades.ConsoleApp\bin\Debug\POO.Propiedades.ConsoleApp.pdb
+C:\Users\afreixas\documents\visual studio 2015\Projects\POO\POO.Propiedades.ConsoleApp\obj\Debug\POO.Propiedades.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\afreixas\documents\visual studio 2015\Projects\POO\POO.Propiedades.ConsoleApp\obj\Debug\POO.Propiedades.ConsoleApp.exe
+C:\Users\afreixas\documents\visual studio 2015\Projects\POO\POO.Propiedades.ConsoleApp\obj\Debug\POO.Propiedades.ConsoleApp.pdb
